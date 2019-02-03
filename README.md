@@ -8,3 +8,12 @@ If done, feel free to do a pull request, or send your new localization file to c
 
 
 Thanks!
+
+
+State:
+English (en.ini) - Done
+French (fr.ini) - Done
+Spanish (es.ini) - 50%
+Dutch (nl.ini) - Done
+German (de.ini) - 40%
+Portuguese - 0%
