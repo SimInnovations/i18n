@@ -10,7 +10,7 @@ If done, feel free to do a pull request, or send your new localization file to c
 Thanks!
 
 
-State:
+State: </br>
 English (en.ini) - Done </br>
 French (fr.ini) - Done </br>
 Spanish (es.ini) - 50% </br>
