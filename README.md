@@ -11,9 +11,9 @@ Thanks!
 
 
 State:
-English (en.ini) - Done
-French (fr.ini) - Done
-Spanish (es.ini) - 50%
-Dutch (nl.ini) - Done
-German (de.ini) - 40%
-Portuguese - 0%
+English (en.ini) - Done </br>
+French (fr.ini) - Done </br>
+Spanish (es.ini) - 50% </br>
+Dutch (nl.ini) - Done </br>
+German (de.ini) - 40% </br>
+Portuguese - 0% </br>
