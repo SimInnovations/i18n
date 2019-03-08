@@ -13,7 +13,7 @@ Thanks!
 State: </br>
 English (en.ini) - Done </br>
 French (fr.ini) - Done </br>
-Spanish (es.ini) - 100% </br>
+Spanish (es.ini) - Done </br>
 Dutch (nl.ini) - Done </br>
-German (de.ini) - 40% </br>
+German (de.ini) - Done </br>
 Portuguese - 0% </br>
